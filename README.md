@@ -62,18 +62,6 @@ No rush to “finish”. Depth beats speed.
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🧭 How I Think
 
 - Skills compound.
